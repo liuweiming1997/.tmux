@@ -27,3 +27,6 @@ tmux -V
 # 编译出来的程序在 tmux 目录内，这里假设你还没离开 tmux 目录
 sudo cp tmux /usr/bin/tmux -f
 sudo cp tmux /usr/local/bin/tmux -f
+
+
+sudo apt-get install xclip
